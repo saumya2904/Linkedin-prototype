@@ -16,33 +16,33 @@
 ![alt text](https://github.com/saumya2904/Linkedin-prototype/blob/master/Project%20Images/Performance%20Graph.jpg)
 
 # Features Provided
-User Login and Sign Up
-Recruiter Login and Sign Up
-Search People
-Search Jobs
-Connect People / Recruiters
-Easy Apply / Custom Apply
-View Connections
-Search Jobs based on Location, Company Name
-Accept / Remove / Ignore Connections
-Post Jobs
-Specific To Recruiter
-Send / Receive Messages
-View Half Filled Forms (specific to recruiter)
-Number of views of your post (specific to recruiter)
-View Clicks on your post (specific to recruiter)
-View Number of Applicants of your post (specific to recruiter)
-View Your Top Posts (specific to recruiter)
+1. User Login and Sign Up
+2. Recruiter Login and Sign Up
+3. Search People
+4. Search Jobs
+5. Connect People / Recruiters
+6. Easy Apply / Custom Apply
+7. View Connections
+8. Search Jobs based on Location, Company Name
+9. Accept / Remove / Ignore Connections
+10. Post Jobs
+11. Specific To Recruiter
+12. Send / Receive Messages
+13. View Half Filled Forms (specific to recruiter)
+14. Number of views of your post (specific to recruiter)
+15. View Clicks on your post (specific to recruiter)
+16. View Number of Applicants of your post (specific to recruiter)
+17. View Your Top Posts (specific to recruiter)
 
 # Technologies Used
 
-React
-Redux
-Node
-AWS RDS MySql
-Mongo DB Cluster
-Kafka
-Json Web Token
+1. React
+2. Redux
+3. Node
+4. AWS RDS MySql
+5. Mongo DB Cluster
+6. Kafka
+7. Json Web Token
 
 # Installation Requirements
 For development, you will only need Node.js installed on your environement. And please use the appropriate Editorconfig plugin for your Editor (not mandatory).
